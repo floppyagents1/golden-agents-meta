@@ -1,0 +1,15 @@
+{
+  "name": "Golden Agents",
+  "description": "Golden Agents. A gift for the AI Agent community.",
+  "image": "https://raw.githubusercontent.com/floppyagents1/golden-agents-meta/main/image.jpg",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Golden Agents"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "BNB Chain"
+    }
+  ]
+}
